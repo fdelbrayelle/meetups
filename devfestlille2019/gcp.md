@@ -14,7 +14,7 @@ Par [Sylvain Nieuwlandt](https://twitter.com/an0rak_dev) (Sfeir)
 
 Retour d'expérience sur un incident de production détecté à distance, dans un moment inopportun, sans moyen d'intervenir... a priori ;)
 
-Intérêt de GCP :
+Intérêts de GCP :
 - coûts sensiblement réduits
 - temps de maintenance réduit (temps, personnes)
 - aucun impact sur le code métier

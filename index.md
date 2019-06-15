@@ -4,7 +4,7 @@ title: François Delbrayelle - Meetups - Restitutions des notes
 
 ## Meetups 2019
 
-- 12/02/2019 – BBL AXA – VueJS – Pouvez-nous y aller ? (Emmanuel Demey)
+- 12/02/2019 – BBL AXA – VueJS – Pouvons-nous y aller ? (Emmanuel Demey)
 - 19/02/2019 – BBL AXA – Simplify web deployments with Netlify (Jonathan Meunier et Jean-Lou Piermé)
 - 25/02/2019 – BBL AXA – Domain Driven Design (Grégory Boissinot)
 - 26/02/2019 – Linkvalue Tech Lille – Vuejs : Astuces, bonnes pratiques et nouveautés (BBL) (Emmanuel Demey)
