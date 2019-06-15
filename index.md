@@ -2,6 +2,8 @@
 title: François Delbrayelle - Meetups - Restitutions des notes
 ---
 
+Cette page a pour vocation de partager et restituer les notes prises lors de meetups et conférences. Vous pouvez également consulter mon [CV en ligne](https://francois-delbrayelle.fr).
+
 ## Meetups 2019
 
 - 12/02/2019 – BBL AXA – VueJS – Pouvons-nous y aller ? (Emmanuel Demey)
