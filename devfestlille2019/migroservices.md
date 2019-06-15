@@ -84,6 +84,6 @@ Dans la définition de Martin Fowler il faut automatiser la totalité de la cha�
 En résumé :
 - Pas là pour dire que les microservices il ne faut pas en faire. Attention il ne faut pas s'enflammer sur le gain qu'ils apportent. Investissement lourd et important. Savoir ce que l'on fait.
 - Se poser les bonnes questions : Qu'est-ce que l'on y gagne ? Qu'est-ce que les utilisateurs y gagnent ?
-- Voir [tweet du 14/07/2O18](https://twitter.com/Maziar/status/1047344181239316480) : il faut des microservices pour résoudre les monolithes, il faut Docker pour les microservices, il faut Kubernetes pour Docker.
+- Voir [tweet du 14/07/2018](https://twitter.com/Maziar/status/1047344181239316480) : il faut des microservices pour résoudre les monolithes, il faut Docker pour les microservices, il faut Kubernetes pour Docker.
 - Bounded context, loosely coupled, ownership, small & focused, protocal portability, automation.
 - Si besoin d'être sur le même langage : pas forcément les microservices.

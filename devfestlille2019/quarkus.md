@@ -19,7 +19,7 @@ __Synchronisation du code lors du run (hot replace).__
 Extensions Quarkus : `mvn quarkus:list-extensions` (simplement un ajout de dépendances dans le pom).
 Hibernate ORM avec Panache mais aussi Hibernate Validator, Resteasy, CDI... Hibernate Search + Elasticsearch intégrés récemment.
 
-Configuration unifiée dans un seul fichier standard, typiquement la préconisation est de tout placer le `application.properties`.
+Configuration unifiée dans un seul fichier standard, typiquement la préconisation est de tout placer dans le `application.properties`.
 
 L'annotation `@QuarkusTest` fait démarrer Quarkus pour les tests unitaires.
 
