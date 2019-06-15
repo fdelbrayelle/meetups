@@ -1,8 +1,9 @@
 ---
-title: François Delbrayelle - Meetups - Restitutions des notes
+title: François Delbrayelle - Restitutions des notes
 ---
 
 Cette page a pour vocation de partager et restituer mes notes prises lors de meetups et conférences.
+
 Vous pouvez également consulter mon [CV en ligne](https://francois-delbrayelle.fr).
 
 ## Meetups 2019
