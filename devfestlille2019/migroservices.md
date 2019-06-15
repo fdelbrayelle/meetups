@@ -10,7 +10,7 @@ Sujets : Architecture microservices, DevOps, CI/CD...
 
 Par [François Teychené](https://twitter.com/fteychene) (Saagie). Merci !
 
-__Vidéo en ligne à venir !__
+/!\ La vidéo complète devrait bientôt être en ligne sur la chaîne YouTube du [GDG France](https://www.youtube.com/user/francegdg).
 
 ## C'est quoi un microservice ?
 
