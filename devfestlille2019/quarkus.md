@@ -57,4 +57,4 @@ Un framework au démarrage :
 
 Le travail n'est réalisé qu'une fois : moins de mémoire, moins de temps de démarrage, limite la réflexion et les proxies dynamiques.
 
-Observabilité : prêt pour (Open AI, Swagger UI, métriques avec Prometheus possible, health...) notamment grâce à Eclipse Microprofile.
+Observabilité : prêt pour ([OpenAPI et Swagger UI](https://quarkus.io/guides/openapi-swaggerui-guide), métriques avec Prometheus possible, health...) notamment grâce à Eclipse Microprofile.

@@ -21,13 +21,12 @@ Jenkins X n'est pas :
 - une variable avec plug-ins etc
 - un projet complètement à part
 
-Projet faisant partie de la CD foundation.
+Projet faisant partie de la [CD foundation](https://cd.foundation). Possibilité de l'installer classiquement ou serverless.
 
 C'est une boîte à outils nécessaire __pour les applications modernes cloud-native__. L'un des avantages de Jenkins X : il pré-assemble ces outils.
 
 Nicolas nous fait assez rapidement une démo :
-`jx create cluster gke` ou `jx install` si cluster existant
-Possibilité de l'installer classiquement ou serverless.
+`jx create cluster gke` ou `jx install` si cluster existant.
 Jenkins reste un monolithe. Prow est utilisé pour la CI (pour gérer les webhooks github).
 Config as code.
 Github as UI.
