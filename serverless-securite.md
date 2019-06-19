@@ -47,7 +47,7 @@ Dangers :
 - Complexité de cette surface d'attaque
 - Complexité du système dans son ensemble (AWS Lambda, Amazon DynamoDB, Amazon API Gateway, Amazon Kinesis...)
 
-Les risques principaux sont connus et sont recensés notamment par le [Top 10 OWASP](https://www.owasp.org/index.php/Top_10-2017_Top_10) (le dernier disponible en ligne semble dater de 2019).
+Les risques principaux sont connus et sont recensés notamment par le [Top 10 OWASP](https://www.owasp.org/index.php/Top_10-2017_Top_10) (le dernier disponible en ligne semble dater de 2017).
 
 Il existe également un [top 12 des risques critiques pour le serverless](https://www.puresec.io/serverless-security-top-12-csa-puresec) édité par Puresec.
 
