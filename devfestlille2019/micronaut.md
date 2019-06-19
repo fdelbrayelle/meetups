@@ -8,7 +8,7 @@ Sujets : Architecture microservices, serverless
 
 15h10 - 15h40
 
-Par [Olivier Revial](https://twitter.com/pommedouze) (Stack Labs)
+Par [Olivier Revial](https://twitter.com/pommedouze) (Stack Labs). Merci !
 
 /!\ La vidéo complète devrait bientôt être en ligne sur la chaîne YouTube du [GDG France](https://www.youtube.com/user/francegdg).
 

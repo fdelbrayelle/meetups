@@ -8,7 +8,7 @@ Sujets : Threads, coroutines, JDK
 
 13h00 - 14h00
 
-Par [Rémi Forax](https://twitter.com/RemiForaxOff) (Université Paris Est Marne-la-Vallée)
+Par [Rémi Forax](https://twitter.com/RemiForaxOff) (Université Paris Est Marne-la-Vallée). Merci !
 
 /!\ La vidéo complète devrait bientôt être en ligne sur la chaîne YouTube du [GDG France](https://www.youtube.com/user/francegdg).
 

@@ -8,7 +8,7 @@ Sujets : Kubernetes, DevOps, CI/CD, ...
 
 11h10 - 12h00
 
-Par [Sébastien Nahélou](https://twitter.com/snahelouz) (Zenika)
+Par [Sébastien Nahélou](https://twitter.com/snahelouz) (Zenika). Merci !
 
 /!\ La vidéo complète devrait bientôt être en ligne sur la chaîne YouTube du [GDG France](https://www.youtube.com/user/francegdg).
 

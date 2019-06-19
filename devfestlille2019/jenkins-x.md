@@ -8,7 +8,7 @@ Sujets : Jenkins, CI/CD, Kubernetes
 
 14h00 - 15h00
 
-Par [Nicolas de Loof](https://twitter.com/ndeloof) (Cloudbees)
+Par [Nicolas de Loof](https://twitter.com/ndeloof) (Cloudbees). Merci !
 
 /!\ La vidéo complète devrait bientôt être en ligne sur la chaîne YouTube du [GDG France](https://www.youtube.com/user/francegdg).
 

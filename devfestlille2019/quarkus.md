@@ -8,7 +8,7 @@ Sujets : JVM, Java, architecture microservices, serverless
 
 15h40 - 16h40
 
-Par [Emmanuel Bernard](https://twitter.com/emmanuelbernard) (Red Hat) et [Guillaume Smet](https://twitter.com/gsmet_) (Red Hat)
+Par [Emmanuel Bernard](https://twitter.com/emmanuelbernard) (Red Hat) et [Guillaume Smet](https://twitter.com/gsmet_) (Red Hat). Merci !
 
 /!\ La vidéo complète devrait bientôt être en ligne sur la chaîne YouTube du [GDG France](https://www.youtube.com/user/francegdg).
 

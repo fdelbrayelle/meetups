@@ -8,7 +8,7 @@ Sujets : GCP, cloud
 
 17h20 - 18h20
 
-Par [Sylvain Nieuwlandt](https://twitter.com/an0rak_dev) (Sfeir)
+Par [Sylvain Nieuwlandt](https://twitter.com/an0rak_dev) (Sfeir). Merci !
 
 /!\ La vidéo complète devrait bientôt être en ligne sur la chaîne YouTube du [GDG France](https://www.youtube.com/user/francegdg).
 

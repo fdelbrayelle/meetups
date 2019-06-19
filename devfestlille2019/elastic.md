@@ -8,7 +8,7 @@ Sujets : Tests
 
 16h40 - 17h00
 
-Par [David Pilato](https://twitter.com/dadoonet) (Elastic)
+Par [David Pilato](https://twitter.com/dadoonet) (Elastic). Merci !
 
 /!\ La vidéo complète devrait bientôt être en ligne sur la chaîne YouTube du [GDG France](https://www.youtube.com/user/francegdg).
 
