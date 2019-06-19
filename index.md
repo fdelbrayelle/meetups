@@ -20,7 +20,7 @@ Vous pouvez également consulter mon [CV en ligne](https://francois-delbrayelle.
 - 26/03/2019 – BBL AXA – Hooks React (Gabin Darras)
 - 27/03/2019 – AXA – Ch’ti JUG – Le Scrum est une fenêtre (ou bien un mur) (Baptiste Lecocq)
 - 28/03/2019 – BBL AXA – Démystifions le Garbage Collector (Loïc Mathieu)
-- 13/05/2019 – BBL AXA – Microservice  : comment peler le Monolith et en faire de bonnes frites (Sébastien Freiss)
+- 13/05/2019 – BBL AXA – Microservice  : comment peler le Monolith et en faire de bonnes frites (Sébastien Friess)
 - 23/05/2019 – Décathlon Campus – Ch’ti JUG – To be or not to be Serverless (Steve Houël)
 - 04/06/2019 – BBL AXA – Spring IO 2019 (Guillaume Dufrene)
 - 04/06/2019 – ChtiJS #23 – Présentation JHipster (Julien Sadaoui) – Plein la Vue avec JHipster (Hippolyte Durix) et Front-End deserves Clean Code (Thomas Ferro et Édouard Cattez)
