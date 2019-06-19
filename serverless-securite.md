@@ -38,6 +38,8 @@ Les inconvénients ?
 
 Certains langages ne sont pas adaptés au serverless (Java ou .NET C# par exemple). __Il est préférable d'utiliser Node, Go ou Python sur du serverless.__ Il y a peu de développeurs compétents dans ces domaines.
 
+## Et la sécurité dans tout ça ?
+
 Les responsabilités ne sont pas les mêmes que sur d'autres architectures. Pas besoin de gérer la sécurité au niveau OS car pas d'accès depuis les fonctions. Le FaaS s'occupe de la partie OS, des VMs, des containers, des BDDs...
 
 Dangers :
