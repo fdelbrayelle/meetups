@@ -23,6 +23,8 @@ On parle de modèles de partage de sécurité. AWS garantit le niveau le plus ha
 
 ## Qu'est-ce que le serverless ?
 
+Même si le terme porte à confusion il y a bien des serveurs physiques derrière mais pas besoin de les gérer, ni même d'y penser ou encore de provisionner en infrastructure. L'idée est de ne payer que ce que l'on utilise. Pour simplifier le serverless c'est du BaaS (backend as a service) et du FaaS (function as a service) = on déploie des fonctions et non des applications. Et enfin le serverless est basé sur les évènements.
+
 Les bénéfices ?
 - __Coût__ opérationnel réduit
 - BaaS coût réduit de développement
