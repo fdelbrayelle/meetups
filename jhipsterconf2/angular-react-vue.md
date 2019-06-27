@@ -63,7 +63,8 @@ Résultats :
 
 Finalement le grand vainqueur semble être clairement Vue.js même s'il faut rester pragmatique et que c'est à chacun de se faire sa propre idée en pesant les avantages et inconvénients de chacun de ces 3 frameworks qui restent tous excellents.
 
-Angular :
+## Angular
+
 - (+) TypeScript fourni de base
 - (+) Familier pour les développeurs Java
 - (+) Programmation réactive (RxJs)
@@ -71,14 +72,16 @@ Angular :
 - (-) Volumineux
 - (-) Moins performant (potentielle amélioration avec Ivy)
 
-React :
+## React
+
 - (+) DOM virtuel
 - (+) JSX
 - (+) Rapide
 - (+) Communauté
 - (-) Prise en main simple pour les petites applications, plus compliquée sur les conséquentes
 
-Vue :
+## Vue
+
 - (+) Vainqueur des benchmarks
 - (+) Single File Component
 - (+) Montée en compétences facile
