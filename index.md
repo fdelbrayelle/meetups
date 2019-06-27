@@ -29,6 +29,8 @@ Vous pouvez également consulter mon [CV en ligne](https://francois-delbrayelle.
 
 ## DevFest Lille 2019
 
+L'évènement s'est tenu au Kinepolis Lomme le 14 juin 2019. Le site officiel du [DevFest Lille](https://devfest.gdglille.org) contient l'ensemble du programme.
+
 - Keynote d'ouverture sur l'historique des séries françaises excellent où on a notamment entendu parler des supers séries suivantes : "Un village français", "Capitaine Marleau", "Les Revenants", "Les rois maudits" et bien sûr "Kaamelott" !
 - [Des microservices aux migroservices](devfestlille2019/migroservices.md) (François Teychené)
 - [Kubernetes : pimp my laptop](devfestlille2019/kubernetes.md) (Sébastien Nahélou)
@@ -39,3 +41,18 @@ Vous pouvez également consulter mon [CV en ligne](https://francois-delbrayelle.
 - [Testcontainers pour de vrais tests d'intégration d'Elasticsearch](devfestlille2019/elastic.md) (David Pilato)
 - [Comment la GCP m'a permis de sauver ma prod chez Mamie](devfestlille2019/gcp.md) (Sylvain Nieuwlandt)
 - Keynote de fermeture sous la forme d'un Burger Quiz animé avec brio par [Jean-François Garreau](https://twitter.com/jefbinomed) !
+
+## JHipster Conf 2
+
+L'évènement s'est tenu à Com'Square Paris La Défense le 27 juin 2019. Le site officiel de la [JHipster Conf](https://jhipster-conf.github.io) contient l'ensemble du programme.
+
+- [Keynote - Dernière nouvelles du projet et retours d'expérience clients](jhipsterconf2/keynote.md) (Julien Dubois et Pascal Grimaud)
+- [Carrefour : retour sur la personnaliartion de JHipster pour l'entreprise](jhipsterconf2/carrefour.md) (Yoan Hoareau et Anthony Viard)
+- [Open-source et Société générale](jhipsterconf2/oss-sg.md) (David Fiou et Mathieu Abou-Aichi)
+- [JHipster avec Google Cloud](jhipsterconf2/gcp.md) (Ludovic Champenois)
+- [What the heck are OAuth and OIDC?](jhipsterconf2/oauth-oidc.mc) (Matt Raible)
+- [Angular, React, Vue.js : il n'en restera qu'un](jhipsterconf2/angular-react-vue.md) (William Marques, Christopher Dionisio, Sahbi Ktifa et Pierre Besson)
+- [Programmation réactive avec JHipster, c'est parti ?](jhipsterconf2/prog-reactive.md) (Christophe Bornet)
+- [JHipster side-by-side in practice](jhipsterconf2/side-by-side.md) (David Steiman)
+- [JHipster Craftsmanship & TDD](jhipsterconf2/craftsmanship.md) (Hippolyte Durix)
+- [JHipster et Kafka : un mix détonnant !](jhipsterconf2/kafka.md) (Florent Ramière)
