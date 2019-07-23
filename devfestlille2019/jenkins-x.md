@@ -10,7 +10,7 @@ Sujets : Jenkins, CI/CD, Kubernetes
 
 Par [Nicolas de Loof](https://twitter.com/ndeloof) (Cloudbees). Merci !
 
-/!\ La vidéo complète devrait bientôt être en ligne sur la chaîne YouTube du [GDG France](https://www.youtube.com/user/francegdg).
+La vidéo complète est en ligne sur la chaîne YouTube du [GDG France](https://www.youtube.com/watch?v=cVJfPqbWi7w).
 
 Le marketing de Cloudbees a préféré que le talk soit nommé "Jenkins X : Vers un Jenkins cloud-native", et pour cause !
 

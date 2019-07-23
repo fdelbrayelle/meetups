@@ -10,7 +10,7 @@ Sujets : JHipster, qualité, software craftsmanship, tests
 
 Par [Hippolyte Durix](https://twitter.com/hdurix) (Ippon Technologies). Merci !
 
-/!\ La vidéo complète devrait bientôt être en ligne sur YouTube.
+La vidéo complète est en ligne sur la chaîne YouTube de [Ippon Technologies](https://www.youtube.com/watch?v=mCEDHG7Wofo).
 
 Les TDD sont au coeur du software craftsmanship.
 

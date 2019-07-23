@@ -10,7 +10,7 @@ Sujets : JHipster, programmation réactive
 
 Par [Christophe Bornet](https://twitter.com/cbornet_) (CDiscount). Merci !
 
-/!\ La vidéo complète devrait bientôt être en ligne sur YouTube.
+La vidéo complète est en ligne sur la chaîne YouTube de [Ippon Technologies](https://www.youtube.com/watch?v=NUtnPqER3bs).
 
 Il est d'abord important de __distinguer concurrent (en concurrence sur un même CPU) et parallèle (plusieurs CPU par exemple)__. Concurrence : threads vs boucle événementielle (pendant longtemps les threads ont été préférés).
 

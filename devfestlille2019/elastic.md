@@ -10,6 +10,6 @@ Sujets : Tests
 
 Par [David Pilato](https://twitter.com/dadoonet) (Elastic). Merci !
 
-/!\ La vidéo complète devrait bientôt être en ligne sur la chaîne YouTube du [GDG France](https://www.youtube.com/user/francegdg).
+La vidéo complète est en ligne sur la chaîne YouTube du [GDG France](https://www.youtube.com/watch?v=hlfy1EDAP4U&).
 
 Démo uniquement sur 20 min en partant de TU et TI classiques.

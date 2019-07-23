@@ -13,8 +13,6 @@ Par [Christopher Dionisio](https://twitter.com/chris_dns) (Ippon Technologies). 
 Par [Sahbi Ktifa](https://twitter.com/sahbiktifa) (Malt). Merci !
 Par [Pierre Besson](https://twitter.com/pibesson) (Ippon Technologies). Merci !
 
-/!\ La vidéo complète devrait bientôt être en ligne sur YouTube.
-
 D'abord un petit historique des frameworks front dans JHipster est fait :
 - AngularJS était le premier a être intégré, puis ensuite __Angular__ depuis février 2017.
 - __React__ : feature majeure de JHipster 5 au printemps 2018.

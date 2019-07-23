@@ -10,7 +10,7 @@ Sujets : GCP, cloud
 
 Par [Sylvain Nieuwlandt](https://twitter.com/an0rak_dev) (Sfeir). Merci !
 
-/!\ La vidéo complète devrait bientôt être en ligne sur la chaîne YouTube du [GDG France](https://www.youtube.com/user/francegdg).
+La vidéo complète est en ligne sur la chaîne YouTube du [GDG France](https://www.youtube.com/watch?v=Sl3Pr5GUEoE).
 
 Retour d'expérience sur un incident de production détecté à distance, dans un moment inopportun, sans moyen d'intervenir... a priori ;)
 

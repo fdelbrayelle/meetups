@@ -10,7 +10,7 @@ Sujets : JHipster
 
 Par [David Steiman](https://twitter.com/theonlyscrippi) (K-TEL Communications GmbH). Merci !
 
-/!\ La vidéo complète devrait bientôt être en ligne sur YouTube.
+La vidéo complète est en ligne sur la chaîne YouTube de [Ippon Technologies](https://www.youtube.com/watch?v=Gg5CYoBdpVo).
 
 Il y a un côté obscur de JHipster : les applications personnalisées ont un besoin constant de changements de code qui peuvent être mal regénérés. L'an passé Antonio Goncalves a donné un [talk](https://www.youtube.com/watch?v=9WVpwIUEty0) à la JHipster Conf 2018 pour parler de l'approche side-by-side. L'idée est d'étendre les fichiers générés dont on a besoin = peu ou pas de changements dans les fichiers générés.
 

@@ -10,8 +10,6 @@ Sujets : JHipster, Google Cloud Platform
 
 Par [Ludovic Champenois](https://twitter.com/ludoch) (Google). Merci !
 
-/!\ La vidéo complète devrait bientôt être en ligne sur YouTube.
-
 ## Historique
 
 Un rappel de ce qui existe aujourd'hui sur GCP est proposé. L'aspect serverless computing fait partie intégrante de Google Cloud.

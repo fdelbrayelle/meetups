@@ -10,7 +10,7 @@ Sujets : Architecture microservices, serverless
 
 Par [Olivier Revial](https://twitter.com/pommedouze) (Stack Labs). Merci !
 
-/!\ La vidéo complète devrait bientôt être en ligne sur la chaîne YouTube du [GDG France](https://www.youtube.com/user/francegdg).
+La vidéo complète est en ligne sur la chaîne YouTube du [GDG France](https://www.youtube.com/watch?v=dsuANdSstX0).
 
 Reprend le meilleur de Spring, Grails et Spring Boot :
 - injection de dépendances

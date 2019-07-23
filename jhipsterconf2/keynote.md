@@ -11,7 +11,7 @@ Sujet : JHipster
 Par [Julien Dubois](https://twitter.com/juliendubois) (Microsoft). Merci !
 Par [Pascal Grimaud](https://twitter.com/pascalgrimaud) (Ippon Technologies). Merci !
 
-/!\ La vidéo complète devrait bientôt être en ligne sur YouTube.
+La vidéo complète sur les projets et réussites est en ligne sur la chaîne YouTube de [Ippon Technologies](https://www.youtube.com/watch?v=LfpV34seu10).
 
 Julien présente la JHipster Conf, les sponsors et les tracks en deux langues avec les programmes : une matinée plutôt orientée inspiration et une après-midi plus technique. Il y aura des retours d'expérience de clients utilisant JHipster comme la Société générale et Carrefour.
 

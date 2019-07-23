@@ -11,7 +11,7 @@ Sujets : JHipster, CI/CD, Kubernetes, Helm, micro-services
 Par Yoan Hoareau (Carrefour). Merci !
 Par [Anthony Viard](https://twitter.com/avdev4j) (Ippon Technologies). Merci !
 
-/!\ La vidéo complète devrait bientôt être en ligne sur YouTube.
+La vidéo complète est en ligne sur la chaîne YouTube de [Ippon Technologies](https://www.youtube.com/watch?v=OlbfgXjw5g0).
 
 Un petit historique pour commencer :
 - Carrefour (C4) cherchait une stack technique moderne et a découvert JHipster en 2016.

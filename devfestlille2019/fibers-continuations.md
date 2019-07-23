@@ -10,7 +10,7 @@ Sujets : Threads, coroutines, JDK
 
 Par [Rémi Forax](https://twitter.com/RemiForaxOff) (Université Paris Est Marne-la-Vallée). Merci !
 
-/!\ La vidéo complète devrait bientôt être en ligne sur la chaîne YouTube du [GDG France](https://www.youtube.com/user/francegdg).
+La vidéo complète est en ligne sur la chaîne YouTube du [GDG France](https://www.youtube.com/watch?v=OYujKbItAXc).
 
 Talk à propos du [projet Loom](http://openjdk.java.net/projects/loom) en développement pour les futures JDK et en particulier sur les __Fibers and Continuations__.
 

@@ -10,7 +10,7 @@ Sujets : JHipster, OAuth, OIDC
 
 Par [Matt Raible](https://twitter.com/mraible) (Okta). Merci !
 
-/!\ La vidéo complète devrait bientôt être en ligne sur YouTube.
+La vidéo complète est en ligne sur la chaîne YouTube de [Ippon Technologies](https://www.youtube.com/watch?v=Wrwa-5zx8pM).
 
 Matt est développeur chez Okta (entreprise qui propose notamment des solutions d'authentification).
 

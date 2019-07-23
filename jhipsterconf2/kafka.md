@@ -10,8 +10,6 @@ Sujets : JHipster, Kafka
 
 Par [Florent Ramière](https://twitter.com/framiere) (Confluent). Merci !
 
-/!\ La vidéo complète devrait bientôt être en ligne sur YouTube.
-
 ## Qu'est-ce que Kafka ?
 
 Il faut d'abord se poser la question de ce que l'on fait, ce que l'on manipule et comment. Les silos expliqués par le concept de "Data Gravity". Kafka est un moyen de casser des silos qui nous empêchent d'aller vite. LinkedIn est à l'origine de Kafka qui s'est aperçu que son architecture était chaotique. Pourquoi ne pas utiliser ActiveMQ ou des alternatives qui existaient avant ? En un mot : la __volumétrie__. Par exemple 4 millions de messages environ transitent sur Netflix par seconde. Kafka est une plate-forme contenant entre autre des clusters, Kafka Connect, Kafka Streams et KSQL : publish & subscribe, store & ETL et process.

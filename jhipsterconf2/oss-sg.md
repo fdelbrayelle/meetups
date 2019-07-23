@@ -11,7 +11,7 @@ Sujets : Open-source
 Par [David Fiou](https://twitter.com/dfiou) (Société Générale). Merci !
 Par Mathieu Abou-Aichi (Société Générale). Merci !
 
-/!\ La vidéo complète devrait bientôt être en ligne sur YouTube.
+La vidéo complète est en ligne sur la chaîne YouTube de [Ippon Technologies](https://www.youtube.com/watch?v=h6hGWOGC5Nw).
 
 Il s'agit d'un retour d'expérience sur l'utilisation de __l'open-source à la Société générale__ (SG).
 
