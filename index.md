@@ -26,6 +26,7 @@ Vous pouvez également consulter mon [CV en ligne](https://francois-delbrayelle.
 - 04/06/2019 – ChtiJS #23 – Présentation JHipster (Julien Sadaoui) – Plein la Vue avec JHipster (Hippolyte Durix) et Front-End deserves Clean Code (Thomas Ferro et Édouard Cattez)
 - 12/06/2019 – Zenika  - NightClazz – Créons notre première API avec NestJS (Aurélien Loyer)
 - 19/06/2019 – Lille AWS User Group - [Serverless et sécurité, ce qu’il faut comprendre](serverless-securite.md) (Steve Houël)
+- 10/09/2019 – BBL AXA - [Des applications Front rapides et légères avec Svelte](svelte.md) (Jérôme Boukorras)
 
 ## DevFest Lille 2019
 
