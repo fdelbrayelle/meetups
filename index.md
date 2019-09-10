@@ -6,7 +6,7 @@ Cette page a pour vocation de partager et restituer mes notes prises lors de mee
 
 Vous pouvez également consulter mon [CV en ligne](https://francois-delbrayelle.fr).
 
-## Meetups 2019
+## 2019 - Meetups
 
 - 12/02/2019 – BBL AXA – VueJS – Pouvons-nous y aller ? (Emmanuel Demey)
 - 19/02/2019 – BBL AXA – Simplify web deployments with Netlify (Jonathan Meunier et Jean-Lou Piermé)
@@ -28,7 +28,7 @@ Vous pouvez également consulter mon [CV en ligne](https://francois-delbrayelle.
 - 19/06/2019 – Lille AWS User Group - [Serverless et sécurité, ce qu’il faut comprendre](serverless-securite.md) (Steve Houël)
 - 10/09/2019 – BBL AXA - [Des applications Front rapides et légères avec Svelte](svelte.md) (Jérôme Boukorras)
 
-## DevFest Lille 2019
+## 2019 - DevFest Lille
 
 L'évènement s'est tenu au Kinepolis Lomme le 14 juin 2019. Le site du [DevFest Lille](https://devfest.gdglille.org) contient le programme.
 
@@ -43,7 +43,7 @@ L'évènement s'est tenu au Kinepolis Lomme le 14 juin 2019. Le site du [DevFest
 - [Comment la GCP m'a permis de sauver ma prod chez Mamie](devfestlille2019/gcp.md) (Sylvain Nieuwlandt)
 - Keynote de fermeture sous la forme d'un Burger Quiz animé avec brio par [Jean-François Garreau](https://twitter.com/jefbinomed) !
 
-## JHipster Conf 2
+## 2019 - JHipster Conf 2
 
 L'évènement s'est tenu à Com'Square Paris La Défense le 27 juin 2019. Le site de la [JHipster Conf](https://jhipster-conf.github.io) contient le programme.
 

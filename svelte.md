@@ -12,7 +12,7 @@ Par [Jérôme Boukorras](https://twitter.com/itupix) (AXA). Merci !
 
 ## Encore un framework JavaScript ?
 
-Et oui, crée par [Rich Harris](https://twitter.com/rich_harris) mais pas de grosse entreprise derrière le framework.
+Et oui, créé par [Rich Harris](https://twitter.com/rich_harris) mais pas de grosse entreprise derrière le framework.
 
 ## Comment ça fonctionne un framework JavaScript ?
 
