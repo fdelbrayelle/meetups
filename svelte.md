@@ -1,5 +1,5 @@
 ---
-title: François Delbrayelle - Des applications Front rapides et légères avec Svelte
+title: François Delbrayelle - BBL AXA - Des applications Front rapides et légères avec Svelte
 ---
 
 # Des applications Front rapides et légères avec Svelte

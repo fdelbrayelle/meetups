@@ -27,6 +27,8 @@ Vous pouvez également consulter mon [CV en ligne](https://francois-delbrayelle.
 - 12/06/2019 – Zenika  - NightClazz – Créons notre première API avec NestJS (Aurélien Loyer)
 - 19/06/2019 – Lille AWS User Group - [Serverless et sécurité, ce qu’il faut comprendre](serverless-securite.md) (Steve Houël)
 - 10/09/2019 – BBL AXA - [Des applications Front rapides et légères avec Svelte](svelte.md) (Jérôme Boukorras)
+- 12/09/2019 – Sfeir Lunch 3 - [Improve your workflow with GCP Cloud Build - Faire cohabiter Java et Haskell en douceur](sfeirlunch3.md) (Aurélien Allienne et Julien Debon)
+- 12/09/2019 – EFFICOM - Ch’ti JUG - [Securing your API - From basics to beyond](securingapi.md) (Alexandre Faria)
 
 ## 2019 - DevFest Lille
 

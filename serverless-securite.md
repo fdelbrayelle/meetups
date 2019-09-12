@@ -1,5 +1,5 @@
 ---
-title: François Delbrayelle - Serverless et sécurité, ce qu’il faut comprendre
+title: François Delbrayelle - Lille AWS User Group - Serverless et sécurité, ce qu’il faut comprendre
 ---
 
 # Serverless et sécurité, ce qu’il faut comprendre
