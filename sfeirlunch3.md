@@ -22,8 +22,8 @@ Il n'existe pas de templates prêts pour Cloud Build et son fichier de configura
 
 Julien prend l'exemple d'une application de calcul des prix chez un client de la grande distribution sur lequel il a mené avec son équipe une migration itérative de code Java vers des fonctions Haskell.
 La programmation fonctionnelle est assez limitée avec Java 8 et même avec Vavr en termes de pattern matching, de génériques et puis une méthode n'est pas une fonction.
-Pourquoi Haskell parmi les autres comme F# ? C'est celui qui parlait était vraiment le plus fonctionnel pour son équipe.
-L'équipe a utilisé Scientist4j de GitHub pour les refactoring.
+Pourquoi Haskell parmi les autres comme F# ? C'est celui qui paraissait le plus fonctionnel pour son équipe.
+L'équipe a utilisé [Scientist4j](https://github.com/rawls238/Scientist4J) de GitHub pour les refactorings.
 
 Les plus :
 - (+) Bien adopté par l'équipe
