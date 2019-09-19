@@ -29,7 +29,7 @@ C'est une pratique en pleine explosion, un mouvement qui pousse un état d'espri
 - 2008 : Craftsmanship over Execution (Markus Gärtner)
 - 2009 : [Manifesto for Software Craftsmanship](http://manifesto.softwarecraftsmanship.org/) qui remet la technique sur le devant de la scène
 - 2014 : "The Software Craftsman: Professionalism, Pragmatism, Pride" (Robert C. Martin)
-- 2008, 2011, 2017 et 2019 : Livres "Clean Code|Coder|Architecture|Agile"
+- 2008, 2011, 2017 et 2019 : Livres "Clean Code", "Clean Coder", "Clean Architecture" et "Clean Agile"
 
 ## Et 10 ans plus tard ?
 
