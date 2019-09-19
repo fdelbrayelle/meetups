@@ -6,7 +6,7 @@ title: François Delbrayelle - BBL AXA - Des applications Front rapides et lég�
 
 Sujets : Svelte, front
 
-12h45 - 13h30
+10/09/2019 - 12h45 - 13h30
 
 Par [Jérôme Boukorras](https://twitter.com/itupix) (AXA). Merci !
 

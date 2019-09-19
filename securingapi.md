@@ -6,7 +6,7 @@ title: François Delbrayelle - Ch’ti JUG - Securing your API - From basics to 
 
 Sujets : API, sécurité, OAuth2, OIDC, JWT, OWASP
 
-19h00 - 20h00
+12/09/2019 - 19h00 - 20h00
 
 Par [Alexandre Faria](https://twitter.com/lusoalex_) (Décathlon). Merci !
 

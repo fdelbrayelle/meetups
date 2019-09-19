@@ -6,7 +6,7 @@ title: François Delbrayelle - Lille AWS User Group - Serverless et sécurité, 
 
 Sujets : Serverless, sécurité, OWASP
 
-19h30 - 20h30
+19/06/2019 - 19h30 - 20h30
 
 Par [Steve Houël](https://twitter.com/SteveHouel) (Ippon). Merci !
 

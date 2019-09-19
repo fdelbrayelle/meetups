@@ -6,7 +6,7 @@ title: François Delbrayelle - Sfeir Lunch 3 - Improve your workflow with GCP Cl
 
 Sujets : GCP, CI/CD, Haskell, programmation fonctionnelle
 
-12h30 - 13h15
+12/09/2019 - 12h30 - 13h15
 
 Par [Aurélien Allienne](https://twitter.com/sn0rks) (Sfeir) et [Julien Debon](https://twitter.com/Sir4ur0n) (Décathlon). Merci !
 
