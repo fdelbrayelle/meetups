@@ -4,7 +4,7 @@ title: François Delbrayelle - BBL AXA - L’impact du mouvement software crafts
 
 # L’impact du mouvement software craftsmanship sur la qualité logicielle
 
-Sujets : Software craftsmanship, qualité, clean code|architecture|coder|agile, tests
+Sujets : Software craftsmanship, qualité, clean code, tests
 
 19/09/2019 - 12h45 - 13h45
 
