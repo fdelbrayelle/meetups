@@ -1,6 +1,6 @@
-–––
+---
 title: François Delbrayelle – Restitutions des notes
-–––
+---
 
 Cette page a pour vocation de partager et restituer mes notes prises lors de meetups et conférences.
 
@@ -8,28 +8,28 @@ Vous pouvez également consulter mon [CV en ligne](https://francois–delbrayell
 
 ## 2019 – Meetups
 
-- 12/02/2019 – BBL AXA – VueJS – Pouvons–nous y aller ? (Emmanuel Demey)
-- 19/02/2019 – BBL AXA – Simplify web deployments with Netlify (Jonathan Meunier et Jean–Lou Piermé)
-- 25/02/2019 – BBL AXA – Domain Driven Design (Grégory Boissinot)
-- 26/02/2019 – Linkvalue Tech Lille – Vuejs : Astuces, bonnes pratiques et nouveautés (BBL) (Emmanuel Demey)
-- 26/02/2019 – Zenika – Ch’ti JUG – Au–delà de Java 8 : Embrassez les nouvelles versions de Java (Loïc Mathieu)
-- 28/02/2019 – Proxiad Nord – Dome Event Programmation Fonctionnelle (Yannick de Kercadio)
-- 05/03/2019 – Zenika – BBL – Faisons de la magie grâce à Houdini CSS (Jean–François Garreau)
-- 14/03/2019 – Progressive Recruitment – Python et deep learning (Morgan Gautherot et Benjamin Dubreu)
-- 21/03/2019 – BBL AXA – Découverte de Kotlin (Moncef Aoudia)
-- 26/03/2019 – BBL AXA – Hooks React (Gabin Darras)
-- 27/03/2019 – AXA – Ch’ti JUG – Le Scrum est une fenêtre (ou bien un mur) (Baptiste Lecocq)
-- 28/03/2019 – BBL AXA – Démystifions le Garbage Collector (Loïc Mathieu)
-- 13/05/2019 – BBL AXA – Microservice  : comment peler le Monolith et en faire de bonnes frites (Sébastien Friess)
-- 23/05/2019 – Décathlon Campus – Ch’ti JUG – To be or not to be Serverless (Steve Houël)
-- 04/06/2019 – BBL AXA – Spring IO 2019 (Guillaume Dufrene)
-- 04/06/2019 – ChtiJS #23 – Présentation JHipster (Julien Sadaoui) – Plein la Vue avec JHipster (Hippolyte Durix) et Front–End deserves Clean Code (Thomas Ferro et Édouard Cattez)
-- 12/06/2019 – Zenika  – NightClazz – Créons notre première API avec NestJS (Aurélien Loyer)
-- 19/06/2019 – Lille AWS User Group – [Serverless et sécurité, ce qu’il faut comprendre](serverless–securite.md) (Steve Houël)
-- 10/09/2019 – BBL AXA – [Des applications Front rapides et légères avec Svelte](svelte.md) (Jérôme Boukorras)
-- 12/09/2019 – Sfeir Lunch 3 – [Improve your workflow with GCP Cloud Build – Faire cohabiter Java et Haskell en douceur](sfeirlunch3.md) (Aurélien Allienne et Julien Debon)
-- 12/09/2019 – EFFICOM – Ch’ti JUG – [Securing your API – From basics to beyond](securingapi.md) (Alexandre Faria)
 - 19/09/2019 – BBL AXA – [L’impact du mouvement software craftsmanship sur la qualité logicielle](softwarecraftsmanship.md) (Arthur Magne)
+- 12/09/2019 – EFFICOM – Ch’ti JUG – [Securing your API – From basics to beyond](securingapi.md) (Alexandre Faria)
+- 12/09/2019 – Sfeir Lunch 3 – [Improve your workflow with GCP Cloud Build – Faire cohabiter Java et Haskell en douceur](sfeirlunch3.md) (Aurélien Allienne et Julien Debon)
+- 10/09/2019 – BBL AXA – [Des applications Front rapides et légères avec Svelte](svelte.md) (Jérôme Boukorras)
+- 19/06/2019 – Lille AWS User Group – [Serverless et sécurité, ce qu’il faut comprendre](serverless–securite.md) (Steve Houël)
+- 12/06/2019 – Zenika  – NightClazz – Créons notre première API avec NestJS (Aurélien Loyer)
+- 04/06/2019 – ChtiJS #23 – Présentation JHipster (Julien Sadaoui) – Plein la Vue avec JHipster (Hippolyte Durix) et Front–End deserves Clean Code (Thomas Ferro et Édouard Cattez)
+- 04/06/2019 – BBL AXA – Spring IO 2019 (Guillaume Dufrene)
+- 23/05/2019 – Décathlon Campus – Ch’ti JUG – To be or not to be Serverless (Steve Houël)
+- 13/05/2019 – BBL AXA – Microservice  : comment peler le Monolith et en faire de bonnes frites (Sébastien Friess)
+- 28/03/2019 – BBL AXA – Démystifions le Garbage Collector (Loïc Mathieu)
+- 27/03/2019 – AXA – Ch’ti JUG – Le Scrum est une fenêtre (ou bien un mur) (Baptiste Lecocq)
+- 26/03/2019 – BBL AXA – Hooks React (Gabin Darras)
+- 21/03/2019 – BBL AXA – Découverte de Kotlin (Moncef Aoudia)
+- 14/03/2019 – Progressive Recruitment – Python et deep learning (Morgan Gautherot et Benjamin Dubreu)
+- 05/03/2019 – Zenika – BBL – Faisons de la magie grâce à Houdini CSS (Jean–François Garreau)
+- 28/02/2019 – Proxiad Nord – Dome Event Programmation Fonctionnelle (Yannick de Kercadio)
+- 26/02/2019 – Zenika – Ch’ti JUG – Au–delà de Java 8 : Embrassez les nouvelles versions de Java (Loïc Mathieu)
+- 26/02/2019 – Linkvalue Tech Lille – Vuejs : Astuces, bonnes pratiques et nouveautés (BBL) (Emmanuel Demey)
+- 25/02/2019 – BBL AXA – Domain Driven Design (Grégory Boissinot)
+- 19/02/2019 – BBL AXA – Simplify web deployments with Netlify (Jonathan Meunier et Jean–Lou Piermé)
+- 12/02/2019 – BBL AXA – VueJS – Pouvons–nous y aller ? (Emmanuel Demey)
 
 ## 2019 – JHipster Conf 2
 
