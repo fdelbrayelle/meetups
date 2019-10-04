@@ -8,6 +8,7 @@ Vous pouvez également consulter mon [CV en ligne](https://francois-delbrayelle.
 
 ## 2019 – Meetups
 
+- 01/10/2019 – Université Catholique de Lille – Ch’ti JUG – Le Ch'ti JUG fête ses 10 ans! - Quarkus: Supersonique Subatomique Java (Emmanuel Bernard) et Open Source en recrutement - ils sont free ils ont tout compris (Shirley Almosni Chiche)
 - 19/09/2019 – BBL AXA – [L’impact du mouvement software craftsmanship sur la qualité logicielle](softwarecraftsmanship.md) (Arthur Magne)
 - 12/09/2019 – EFFICOM – Ch’ti JUG – [Securing your API – From basics to beyond](securingapi.md) (Alexandre Faria)
 - 12/09/2019 – Sfeir Lunch 3 – [Improve your workflow with GCP Cloud Build – Faire cohabiter Java et Haskell en douceur](sfeirlunch3.md) (Aurélien Allienne et Julien Debon)
@@ -30,6 +31,20 @@ Vous pouvez également consulter mon [CV en ligne](https://francois-delbrayelle.
 - 25/02/2019 – BBL AXA – Domain Driven Design (Grégory Boissinot)
 - 19/02/2019 – BBL AXA – Simplify web deployments with Netlify (Jonathan Meunier et Jean-Lou Piermé)
 - 12/02/2019 – BBL AXA – VueJS – Pouvons-nous y aller ? (Emmanuel Demey)
+
+## 2019 – Google Cloud Platform On Board
+
+L'évènement s'est tenu à Saint-Sauveur Lille le 1er octobre 2019. Introduction par Sébastien, Paul-Antoine et Camille avec une présentation de Sfeir et de leur expertise (premier partenaire GCP en France). Les talks sont assurés par des certifiés GCP de Sfeir Lille.
+
+- [Introduction to the Cloud - Cloud, in board online](onboardgcp/introcloud.md) (Didier Girard)
+- [Create a project on GCP](onboardgcp/createproject.md) (Sébastien Friess)
+- [Network / Security](onboardgcp/network.md) (Jérôme Nahélou)
+- [Compute et IaaS](onboardgcp/compute.md) (Tanguy Baudrin et Jérôme Nahélou)
+- [Containers and Kubernetes](onboardgcp/k8s.md) (Sylvain Nieuwlandt et Antoine Méausoone)
+- [Development and Monitoring Tools](onboardgcp/devtools.md) (Sylvain Nieuwlandt)
+- [Data et Stockage SQL](onboardgcp/data.md) (Vincent Dolez et Aurélien Allienne)
+- [Sfeir et des exemple de projets clients GCP](onboardgcp/usecases.md) (Didier Girard)
+- [Suite data, machine learning, API et conclusion](onboardgcp/data2.md) (Vincent Dolez, Aurélien Allienne, Emmanuel Longeau, Simon Abersson, Sébastien Friess et Didier Girard)
 
 ## 2019 – JHipster Conf 2
 
