@@ -8,7 +8,7 @@ Vous pouvez également consulter mon [CV en ligne](https://francois-delbrayelle.
 
 ## 2019 – Meetups
 
-- 01/10/2019 – Université Catholique de Lille – Ch’ti JUG – Le Ch'ti JUG fête ses 10 ans! - Quarkus: Supersonique Subatomique Java (Emmanuel Bernard) et Open Source en recrutement - ils sont free ils ont tout compris (Shirley Almosni Chiche)
+- 01/10/2019 – Euratechnologies – Ch’ti JUG – Le Ch'ti JUG fête ses 10 ans! - Quarkus: Supersonique Subatomique Java (Emmanuel Bernard) et Open Source en recrutement - ils sont free ils ont tout compris (Shirley Almosni Chiche)
 - 19/09/2019 – BBL AXA – [L’impact du mouvement software craftsmanship sur la qualité logicielle](softwarecraftsmanship.md) (Arthur Magne)
 - 12/09/2019 – EFFICOM – Ch’ti JUG – [Securing your API – From basics to beyond](securingapi.md) (Alexandre Faria)
 - 12/09/2019 – Sfeir Lunch 3 – [Improve your workflow with GCP Cloud Build – Faire cohabiter Java et Haskell en douceur](sfeirlunch3.md) (Aurélien Allienne et Julien Debon)
