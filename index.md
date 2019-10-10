@@ -32,6 +32,16 @@ Vous pouvez également consulter mon [CV en ligne](https://francois-delbrayelle.
 - 19/02/2019 – BBL AXA – Simplify web deployments with Netlify (Jonathan Meunier et Jean-Lou Piermé)
 - 12/02/2019 – BBL AXA – VueJS – Pouvons-nous y aller ? (Emmanuel Demey)
 
+## 2019 - Agile Tour Lille
+
+L'évènement s'est tenu à l'Université Catholique de Lille le 10 octobre 2019. Le site de l'[Agile Tour Lille](http://2019.agiletour-lille.org/programme) contient le programme.
+
+- [Keynote - Et si on redémarrait l’agile](agiletour2019/keynote.md) (Arnaud Lemaire)
+- [Tests de propriétés : Ecrire moins de tests, trouver plus de bugs](https://github.com/trollaklass/) (Thomas Haessle et Julien Debon)
+- Découverte de l'Event Storming Exploratoire (Christophe Mignot et Francis Bacquet)
+- [Participez au carnage des mutants avec les tests de mutation !](https://jtourvieille.github.io/MutationTesting/) (Jounad Tourvieille et Guillaume Delahaye)
+- [Oui je suis développeur et non le code n'est pas ma passion !](agiletour2019/developpeur.md) (Arnaud Huon)
+
 ## 2019 – Google Cloud Platform On Board
 
 L'évènement s'est tenu à Saint-Sauveur Lille le 1er octobre 2019. Introduction par Sébastien, Paul-Antoine et Camille avec une présentation de Sfeir et de leur expertise (premier partenaire GCP en France). Les talks sont assurés par des certifiés GCP de Sfeir Lille.
