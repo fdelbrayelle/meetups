@@ -33,6 +33,16 @@ Vous pouvez également consulter mon [CV en ligne](https://francois-delbrayelle.
 - 19/02/2019 – BBL AXA – Simplify web deployments with Netlify (Jonathan Meunier et Jean-Lou Piermé)
 - 12/02/2019 – BBL AXA – VueJS – Pouvons-nous y aller ? (Emmanuel Demey)
 
+## 2019 - Microsoft Ignite the Tour Paris
+
+L'évènement s'est tenu au parc des expositions porte de Versailles à Paris le 13 novembre 2019. Le site du [Microsoft Ignite the Tour Paris](https://paris.myignitetour.techcommunity.microsoft.com/sessions) contient le programme.
+
+- Developers guide to AI: A data story
+- Discovering Microsoft Azure
+- The Paris Typescript Meetup - managed by an MVP and a former Microsoftee
+- Modernizing your application with containers
+- When JHipster meets Microsoft-JHipster and Microsoft products
+
 ## 2019 - Agile Tour Lille
 
 L'évènement s'est tenu à l'Université Catholique de Lille le 10 octobre 2019. Le site de l'[Agile Tour Lille](http://2019.agiletour-lille.org/programme) contient le programme.
