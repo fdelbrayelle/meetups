@@ -8,6 +8,7 @@ Vous pouvez également consulter mon [CV en ligne](https://francois-delbrayelle.
 
 ## 2019 – Meetups
 
+- 09/01/2020 – Decathlon Tech - Kustomize et GitOps (Antoine Meausoone)
 - 22/10/2019 – Decathlon Tech - BDD : Bazar Droit Devant (Grégory El Haimer)
 - 01/10/2019 – Euratechnologies – Ch’ti JUG – Le Ch'ti JUG fête ses 10 ans! - Quarkus: Supersonique Subatomique Java (Emmanuel Bernard) et Open Source en recrutement - ils sont free ils ont tout compris (Shirley Almosni Chiche)
 - 19/09/2019 – BBL AXA – [L’impact du mouvement software craftsmanship sur la qualité logicielle](softwarecraftsmanship.md) (Arthur Magne)
