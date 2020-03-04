@@ -8,17 +8,18 @@ Vous pouvez également consulter mon [CV en ligne](https://francois-delbrayelle.
 
 ## 2020 – Meetups
 
+- 03/03/2020 - IppApéro - [Qu'est-ce qu'une bonne CFP ?](meetups/2020/cfp.md) (Emmanuel Demey)
 - 09/01/2020 – Decathlon Tech - Kustomize et GitOps (Antoine Meausoone)
 
 ## 2019 – Meetups
 
 - 22/10/2019 – Decathlon Tech - BDD : Bazar Droit Devant (Grégory El Haimer)
 - 01/10/2019 – Euratechnologies – Ch’ti JUG – Le Ch'ti JUG fête ses 10 ans! - Quarkus: Supersonique Subatomique Java (Emmanuel Bernard) et Open Source en recrutement - ils sont free ils ont tout compris (Shirley Almosni Chiche)
-- 19/09/2019 – BBL AXA – [L’impact du mouvement software craftsmanship sur la qualité logicielle](softwarecraftsmanship.md) (Arthur Magne)
-- 12/09/2019 – EFFICOM – Ch’ti JUG – [Securing your API – From basics to beyond](securingapi.md) (Alexandre Faria)
-- 12/09/2019 – Sfeir Lunch 3 – [Improve your workflow with GCP Cloud Build – Faire cohabiter Java et Haskell en douceur](sfeirlunch3.md) (Aurélien Allienne et Julien Debon)
-- 10/09/2019 – BBL AXA – [Des applications Front rapides et légères avec Svelte](svelte.md) (Jérôme Boukorras)
-- 19/06/2019 – Lille AWS User Group – [Serverless et sécurité, ce qu’il faut comprendre](serverless-securite.md) (Steve Houël)
+- 19/09/2019 – BBL AXA – [L’impact du mouvement software craftsmanship sur la qualité logicielle](meetups/2019/softwarecraftsmanship.md) (Arthur Magne)
+- 12/09/2019 – EFFICOM – Ch’ti JUG – [Securing your API – From basics to beyond](meetups/2019/securingapi.md) (Alexandre Faria)
+- 12/09/2019 – Sfeir Lunch 3 – [Improve your workflow with GCP Cloud Build – Faire cohabiter Java et Haskell en douceur](meetups/2019/sfeirlunch3.md) (Aurélien Allienne et Julien Debon)
+- 10/09/2019 – BBL AXA – [Des applications Front rapides et légères avec Svelte](meetups/2019/svelte.md) (Jérôme Boukorras)
+- 19/06/2019 – Lille AWS User Group – [Serverless et sécurité, ce qu’il faut comprendre](meetups/2019/serverless-securite.md) (Steve Houël)
 - 12/06/2019 – Zenika  – NightClazz – Créons notre première API avec NestJS (Aurélien Loyer)
 - 04/06/2019 – ChtiJS #23 – Présentation JHipster (Julien Sadaoui) – Plein la Vue avec JHipster (Hippolyte Durix) et Front-End deserves Clean Code (Thomas Ferro et Édouard Cattez)
 - 04/06/2019 – BBL AXA – Spring IO 2019 (Guillaume Dufrene)
