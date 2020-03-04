@@ -1,8 +1,8 @@
 ---
-title: François Delbrayelle - IppApéro - Qu'est-ce qu'une bonne CFP ?
+title: François Delbrayelle - IppApéro - Qu'est-ce qu'un bon CFP ?
 ---
 
-# Qu'est-ce qu'une bonne CFP ?
+# Qu'est-ce qu'un bon CFP ?
 
 Sujets : CFP, talks
 
