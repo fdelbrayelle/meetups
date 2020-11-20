@@ -6,6 +6,19 @@ Cette page a pour vocation de partager et restituer mes notes prises lors de mee
 
 Vous pouvez également consulter mon [CV en ligne](https://francois-delbrayelle.fr).
 
+## 2020 - Cloud Nord (Remote)
+
+L'évènement s'est tenu en remote le 19 novembre 2020. Le site du [Cloud Nord](http://www.cloudnord.fr/agenda) contient le programme.
+
+- [Keynote - Comment être un bon citoyen du Cloud ?](cloudnord2020/keynote.md) (Sébastien Blanc)
+- [Et si ca tourne mal ? Recettes pour des applications résilientes](cloudnord2020/incidents.md) (Christopher Maneu)
+- [Rex : Transfo Cloud Nexity - Log Factory Datadog : One tool to rule them all](cloudnord2020/datadog.md) (Anthony Durot et Xavier Top)
+- [Cloud Souverain, par où commencer ?](cloudnord2020/souverain.md) (Christophe Chaudier)
+- [Les opérateurs Kubernetes : opérer des services Cloud Native à grande échelle](cloudnord2020/operateurs.md) (Horacio Gonzalez)
+- [Optimiser son déploiement Spring Boot dans le cloud](cloudnord2020/springboot.md) (Julien Dubois)
+- [Github Actions : enfin des pipelines accessibles aux développeurs](cloudnord2020/gha.md) (Antoine Méausoone)
+- [Je fais partie d'une espèce menacée d'extinction](cloudnord2020/dino.md) (Olivier Poncet)
+
 ## 2020 – Meetups
 
 - 03/03/2020 - IppApéro - [Qu'est-ce qu'une bonne CFP ?](meetups/2020/cfp.md) (Emmanuel Demey)
