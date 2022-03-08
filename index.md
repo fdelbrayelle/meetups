@@ -6,6 +6,11 @@ Cette page a pour vocation de partager et restituer mes notes prises lors de mee
 
 Vous pouvez également consulter mon [CV en ligne](https://francois-delbrayelle.fr).
 
+## 2022 – Meetups
+
+- 08/03/2022 - DevOps Lille - Continuous Delivery et les environnements : Comment éviter l'enfer ?! (Philippe Morisseau)
+- 28/02/2022 - Lille Apache Kafka® Meetup by Confluent - Apache Kafka® 101 (Antonio Loma Daza)
+
 ## 2020 - Cloud Nord (Remote)
 
 L'évènement s'est tenu en remote le 19 novembre 2020. Le site du [Cloud Nord](http://www.cloudnord.fr/agenda) contient le programme.
