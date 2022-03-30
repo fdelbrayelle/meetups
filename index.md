@@ -8,6 +8,7 @@ Vous pouvez également consulter mon [CV en ligne](https://francois-delbrayelle.
 
 ## 2022 – Meetups
 
+- 29/03/2022 - Software Craft Lille - Méthode de refactoring de code legacy (Thomas Clavier)
 - 17/03/2022 - Meetup CTO -- Tech Rocks - Qu’est-ce que le DevX ? (Dimitri Baeli, Mathilde Lemée, Benjamin Brial et Philippe Ensarguet)
 - 08/03/2022 - DevOps Lille - Continuous Delivery et les environnements : Comment éviter l'enfer ?! (Philippe Morisseau)
 - 28/02/2022 - Lille Apache Kafka® Meetup by Confluent - Apache Kafka® 101 (Antonio Loma Daza)
