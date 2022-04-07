@@ -8,6 +8,8 @@ Vous pouvez également consulter mon [CV en ligne](https://francois-delbrayelle.
 
 ## 2022 – Meetups
 
+- 07/04/2022 - Meetup CTO -- Tech Rocks - Dév Senior avec 6 ans d’expérience, et après ? (Valériane Venance, Caroline Therwath-Chavier, Dimitri Baeli, Hugo Lassiège)
+- 05/04/2022 - Décathlon Campus – Ch’ti JUG – Quarkus + Opérateur Kubernetes en Java (Clément Escoffier et Sébastien Blanc)
 - 29/03/2022 - Software Craft Lille - Méthode de refactoring de code legacy (Thomas Clavier)
 - 17/03/2022 - Meetup CTO -- Tech Rocks - Qu’est-ce que le DevX ? (Dimitri Baeli, Mathilde Lemée, Benjamin Brial et Philippe Ensarguet)
 - 08/03/2022 - DevOps Lille - Continuous Delivery et les environnements : Comment éviter l'enfer ?! (Philippe Morisseau)
