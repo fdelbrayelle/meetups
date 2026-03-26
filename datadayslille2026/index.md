@@ -2,7 +2,7 @@
 
 ![Data Days Lille 2026](entree.jpg)
 
-https://days.data-lille.fr/2026/fr/programme/
+[Programme Data Days Lille 2026](https://days.data-lille.fr/2026/fr/programme/)
 
 [English version](en/)
 
@@ -20,7 +20,7 @@ But de l'association : promouvoir l'usage de la data, créer des meetups, dizain
 
 ## La guerre des orchestrateurs: Airflow VS Kestra (Florian Deze et Guillaume Fauvergue)
 
-https://days.data-lille.fr/2026/fr/presentations/la-guerre-des-orchestrateurs-airflow-vs-kestra/
+[Lien vers la présentation](https://days.data-lille.fr/2026/fr/presentations/la-guerre-des-orchestrateurs-airflow-vs-kestra/)
 
 Discussion au début avec les speakers, ils utilisent Kestra chez LMFR. L'idée de leur talk est de faire un retour d'expérience sur leur utilisation à la fois d'Airflow et Kestra au quotidien en tant que data engineers.
 
@@ -104,5 +104,5 @@ Une autre personne du public a parlé de [Windmill](https://www.windmill.dev/) u
 ---
 
 Références :
-https://kestra.io/vs/airflow
-https://kestra.io/docs/enterprise/governance/assets
+- [Kestra vs Airflow](https://kestra.io/vs/airflow)
+- [Kestra Enterprise Governance Assets](https://kestra.io/docs/enterprise/governance/assets)
