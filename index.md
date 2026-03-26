@@ -6,6 +6,12 @@ Cette page a pour vocation de partager et restituer mes notes prises lors de mee
 
 Vous pouvez également consulter mon [CV en ligne](https://francois-delbrayelle.fr).
 
+## 2026 - Data Days Lille
+
+L'évènement s'est tenu à Lille le 26 mars 2026. Le site des [Data Days Lille](https://days.data-lille.fr/2026/fr/programme/) contient le programme.
+
+- [Data Days Lille 2026](datadayslille2026/index.md)
+
 ## 2022 – Meetups
 
 - 07/04/2022 - Meetup CTO -- Tech Rocks - Dév Senior avec 6 ans d’expérience, et après ? (Valériane Venance, Caroline Therwath-Chavier, Dimitri Baeli, Hugo Lassiège)
