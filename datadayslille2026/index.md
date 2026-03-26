@@ -79,6 +79,18 @@ Chacun a des avantages et des inconvénients :
 
 ![Conclusion Airflow vs Kestra](conclusion.jpg)
 
+Airflow :
+- Personnalisation simple des opérateurs
+- Définition normée des DAGs via les policies
+- Versionning par run
+- Montée de version plus simple (si bonnes pratiques appliquées)
+
+Kestra :
+- Type de Trigger évènementiel plus complets
+- CI/CD : Terraform et update des flux avec faible latence
+- Syntaxe plus lisible sur des flux simples
+- Gestion du Run mieux pensée
+
 ## Questions
 
 Pourquoi pas Dagster ou Prefect ? Manque d'expérience pour répondre mais les challengers arrivent et proposent de répondre à ce que Airflow ne fait pas.
