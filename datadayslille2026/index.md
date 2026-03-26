@@ -4,6 +4,8 @@
 
 https://days.data-lille.fr/2026/fr/programme/
 
+[English version](en/)
+
 **Les passages en gras sont des pistes d'amélioration potentielles.**
 
 ## Intro

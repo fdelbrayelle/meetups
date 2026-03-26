@@ -1,6 +1,10 @@
+---
+title: Data Days Lille 2026 (EN)
+---
+
 # Data Days Lille 2026
 
-![Data Days Lille 2026](entree.jpg)
+![Data Days Lille 2026](../entree.jpg)
 
 https://days.data-lille.fr/2026/fr/programme/
 
@@ -77,7 +81,7 @@ Run a plugin via its own Kestra Docker image.
 
 Each has its pros and cons:
 
-![Conclusion Airflow vs Kestra](conclusion.jpg)
+![Conclusion Airflow vs Kestra](../conclusion.jpg)
 
 Airflow:
 - Simple operator customization
